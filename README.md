@@ -7,3 +7,5 @@ python3.6
 tensorflow==1.15.4  
 gym==0.21.0  
 stable_baselines==2.10.2
+
+conda activate py3.6_jqxx_tf1
